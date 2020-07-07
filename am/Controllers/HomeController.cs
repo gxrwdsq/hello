@@ -26,5 +26,10 @@ namespace am.Controllers
 
             return View();
         }
+
+        public ActionResult MyTest()
+        {
+            return View();
+        }
     }
 }
